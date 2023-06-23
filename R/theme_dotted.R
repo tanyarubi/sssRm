@@ -6,7 +6,7 @@
 #' @examples
 #' library(ggplot2)
 #'
-#' p <- ggplot(mtcars, aes(mpg, hp)) + geom_point()
+#' p <- ggplot2::ggplot(mtcars, aes(mpg, hp)) + ggplot2::geom_point()
 #' p + theme_dotted()
 
 
