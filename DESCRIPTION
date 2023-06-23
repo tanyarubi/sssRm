@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 URL: https://github.com/tanyarubi/sssRm
 BugReports: https://github.com/tanyarubi/sssRm/issues
+Imports: 
+    ggplot2
